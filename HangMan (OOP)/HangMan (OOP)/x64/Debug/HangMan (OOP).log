@@ -1,0 +1,4 @@
+﻿  Hangman.cpp
+E:\GitHub Clone Repository\HangMan-Project-Using-Dynamic-Arrays\HangMan (OOP)\Hangman.cpp(39,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\GitHub Clone Repository\HangMan-Project-Using-Dynamic-Arrays\HangMan (OOP)\Hangman.cpp(142,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  HangMan (OOP).vcxproj -> E:\GitHub Clone Repository\HangMan-Project-Using-Dynamic-Arrays\HangMan (OOP)\x64\Debug\HangMan (OOP).exe
